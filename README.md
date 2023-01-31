@@ -26,10 +26,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Formulated the model using Ridge regression with r-square score for train data 0.8754074992627734
-Formulated the model using Ridge regression with r-square score for test data 0.8587679649562701
-Formulated the model using Lasso regression with r-square score for train data 0.8432555208853181
-Formulated the model using Lasso regression with r-square score for test data 0.8337194426845449
+- Formulated the model using Ridge regression with r-square score for train data 0.8754074992627734
+- Formulated the model using Ridge regression with r-square score for test data 0.8587679649562701
+- Formulated the model using Lasso regression with r-square score for train data 0.8432555208853181
+- Formulated the model using Lasso regression with r-square score for test data 0.8337194426845449
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
